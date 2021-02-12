@@ -18,7 +18,7 @@ I'm an outdoor enthusiast, so in my free time I enjoy going to the mountains and
 
 
 - 🌱 I’m currently learning: <img height="30" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"> and  <img height="30" alt="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
-- 📫 How to reach me: <a href="www.linkedin.com/in/guillemgarciagomez
+- 📫 How to reach me: <a href="https://linkedin.com/in/guillemgarciagomez
 ">Connect with me in LinkedIn</a>
 - 💬 Ask me about developing GraphQL back ends using TypeScript
 - 😄 Pronouns: he/him/his
