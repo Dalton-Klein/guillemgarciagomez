@@ -1,4 +1,6 @@
-### Hi there 👋
+<link href="style.css" rel="stylesheet"></link>
+
+<h1 class="name">Guillem Garcia</h1>
 
 <!--
 **guillemgarciagomez/guillemgarciagomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
