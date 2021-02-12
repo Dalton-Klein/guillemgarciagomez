@@ -1,4 +1,4 @@
-<img src="assets/hero.png" width="100%"/>
+<img src="assets/hero.png" width="100%" alt="Guillem Garcia - Full Stack Developer"/>
 
 ## Hello there! I'm Guillem Garcia, a full stack developer based in Barcelona 👋
 
@@ -9,7 +9,7 @@ I'm an outdoor enthusiast, so in my free time I enjoy going to the mountains and
 
 
 <div>
-  <img align="right"  src="assets/programmer.png" width="50%"/>
+  <img align="right"  src="assets/programmer.png" width="50%" alt="programmer"/>
 
 </div>
 
@@ -26,18 +26,18 @@ I'm an outdoor enthusiast, so in my free time I enjoy going to the mountains and
 
 ### My Languages and tools
 
-<code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="40" alt="React Testing Library and Jest" src="https://avatars0.githubusercontent.com/u/49996085?s=200&v=4"></code>
 <code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="40" alt="ExpressJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="40" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-  <p style="font-size: 10px;text-align:right">
+  <p style="font-size: 10px;text-align:right;width: 100%">
     Illustration by <a href="https://dribbble.com/Smetanov">Aleksandr Smetanov</a> from <a href="https://icons8.com/">Icons8</a>
   </p>
 
